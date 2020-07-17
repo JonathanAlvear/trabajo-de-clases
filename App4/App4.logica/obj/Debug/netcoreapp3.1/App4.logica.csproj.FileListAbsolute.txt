@@ -1,0 +1,9 @@
+C:\Users\shuno\Desktop\Deberes 3 semestre\poo4\App4\App4.logica\bin\Debug\netcoreapp3.1\App4.logica.deps.json
+C:\Users\shuno\Desktop\Deberes 3 semestre\poo4\App4\App4.logica\bin\Debug\netcoreapp3.1\App4.logica.dll
+C:\Users\shuno\Desktop\Deberes 3 semestre\poo4\App4\App4.logica\bin\Debug\netcoreapp3.1\App4.logica.pdb
+C:\Users\shuno\Desktop\Deberes 3 semestre\poo4\App4\App4.logica\obj\Debug\netcoreapp3.1\App4.logica.csprojAssemblyReference.cache
+C:\Users\shuno\Desktop\Deberes 3 semestre\poo4\App4\App4.logica\obj\Debug\netcoreapp3.1\App4.logica.AssemblyInfoInputs.cache
+C:\Users\shuno\Desktop\Deberes 3 semestre\poo4\App4\App4.logica\obj\Debug\netcoreapp3.1\App4.logica.AssemblyInfo.cs
+C:\Users\shuno\Desktop\Deberes 3 semestre\poo4\App4\App4.logica\obj\Debug\netcoreapp3.1\App4.logica.csproj.CoreCompileInputs.cache
+C:\Users\shuno\Desktop\Deberes 3 semestre\poo4\App4\App4.logica\obj\Debug\netcoreapp3.1\App4.logica.dll
+C:\Users\shuno\Desktop\Deberes 3 semestre\poo4\App4\App4.logica\obj\Debug\netcoreapp3.1\App4.logica.pdb

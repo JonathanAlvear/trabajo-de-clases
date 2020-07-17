@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProyectoApp4/1.0.0": {
+        "dependencies": {
+          "App4.logica": "1.0.0"
+        },
+        "runtime": {
+          "ProyectoApp4.dll": {}
+        }
+      },
+      "App4.logica/1.0.0": {
+        "runtime": {
+          "App4.logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoApp4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "App4.logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
